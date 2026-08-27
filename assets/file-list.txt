@@ -777,3 +777,5 @@
 2026-08-24_AI_enhanced_Chinesse.jsonl
 2026-08-26.jsonl
 2026-08-26_AI_enhanced_Chinesse.jsonl
+2026-08-27.jsonl
+2026-08-27_AI_enhanced_Chinesse.jsonl
